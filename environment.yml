@@ -1,0 +1,13 @@
+name : Heyams-binder
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - pip
+  - matplotlib
+  - pandas
+  - scipy
+  - pip:
+     - statsmodels
+     - statistics
